@@ -1,0 +1,19 @@
+{
+    "name": "node-atbrightness",
+    "version": "0.1.8",
+    "description": "Advantech IIoT brightness module",
+    "main": "atbrightness.js",
+    "keywords": [
+        "Brightness",
+        "atbrightness",
+        "Advantech",
+        "AdvantechIIoT",
+        "IIoT"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Advantech-IIoT/node-atbrightness"
+      },
+    "author": "Yungchun.Tu",
+    "license": "Apache-2.0"
+}
