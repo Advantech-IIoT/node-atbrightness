@@ -75,11 +75,12 @@ console.log(brightness.setautobrightness(false));
 ```
 ---
 ## Test Platform
-- Windows 10 Enterprise LTSB with node.js 10.15.3
+- Windows 10 Enterprise LTSC with node.js 18.14.1
 
 ## History
-- 1.0.0 - November 2019 : update for NODE_MODULE_VERSION=64
+- 3.0.1 - June 2023 : update for NODE_MODULE_VERSION=108 (C++ addons use Node-API)
+- 1.0.0 - November 2019 : update for NODE_MODULE_VERSION=64 (C++ addons use Native Abstractions for Node.js)
 - 0.1.7 - October 2017 : Initial Release
 
 ## License
-Copyright 2019 ADVANTECH Corp. under [the Apache 2.0 license](LICENSE).
+Copyright 2023 ADVANTECH Corp. under [the Apache 2.0 license](LICENSE).
