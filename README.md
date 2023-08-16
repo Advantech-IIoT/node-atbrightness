@@ -3,8 +3,10 @@ Node.js Integration for Advantech IIoT brightness function.
 
 Notice that an Advantech IIoT Platform SDK have to be installed to make this node works correctly.
 Advantech IIoT Platform SDK download link is shown below:
+
 Windows:
   https://github.com/Advantech-IIoT/Platform-SDK/tree/master/windows/bin
+  
 Linux:
   https://github.com/Advantech-IIoT/Platform-SDK/tree/master/linux/bin
 
